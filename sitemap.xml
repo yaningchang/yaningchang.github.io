@@ -1,116 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://yaningchang.github.io/home/hero_carousel/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>https://yaningchang.github.io/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://yaningchang.github.io/home/hero/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>https://yaningchang.github.io/author/admin/</loc>
+    </url>
+    
   
-  <url>
-    <loc>https://yaningchang.github.io/home/about/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>https://yaningchang.github.io/author/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://yaningchang.github.io/home/skills/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>https://yaningchang.github.io/authors/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://yaningchang.github.io/home/experience/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>https://yaningchang.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://yaningchang.github.io/home/accomplishments/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>https://yaningchang.github.io/post/</loc>
+    </url>
+    
   
-  <url>
-    <loc>https://yaningchang.github.io/home/publications_featured/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>https://yaningchang.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://yaningchang.github.io/home/publications/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>https://yaningchang.github.io/publication/</loc>
+    </url>
+    
   
-  <url>
-    <loc>https://yaningchang.github.io/home/talks_featured/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>https://yaningchang.github.io/talk/</loc>
+    </url>
+    
   
-  <url>
-    <loc>https://yaningchang.github.io/home/talks/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/home/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/home/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/home/teaching/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/home/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/home/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/author/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/author/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/authors/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/home/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaningchang.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://yaningchang.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>
