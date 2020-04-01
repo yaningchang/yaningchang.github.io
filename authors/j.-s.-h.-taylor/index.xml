@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Padraic Monaghan on </title>
-    <link>https://yaningchang.github.io/authors/padraic-monaghan/</link>
-    <description>Recent content in Padraic Monaghan on </description>
+    <title>J. S. H. Taylor on </title>
+    <link>https://yaningchang.github.io/authors/j.-s.-h.-taylor/</link>
+    <description>Recent content in J. S. H. Taylor on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Dec 2019 22:55:27 +0100</lastBuildDate>
     
-	<atom:link href="https://yaningchang.github.io/authors/padraic-monaghan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yaningchang.github.io/authors/j.-s.-h.-taylor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Sun, 01 Dec 2019 22:55:27 +0100</pubDate>
       
       <guid>https://yaningchang.github.io/publication/artifical_word_learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A computational model of reading across development: Effects of literacy onset on language processing</title>
-      <link>https://yaningchang.github.io/publication/aoa/</link>
-      <pubDate>Thu, 31 Oct 2019 21:39:47 +0100</pubDate>
-      
-      <guid>https://yaningchang.github.io/publication/aoa/</guid>
       <description></description>
     </item>
     
