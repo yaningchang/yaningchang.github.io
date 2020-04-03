@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Brysbaert on </title>
+    <link>https://yaningchang.github.io/authors/marc-brysbaert/</link>
+    <description>Recent content in Marc Brysbaert on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Apr 2017 21:21:45 +0100</lastBuildDate>
+    
+	<atom:link href="https://yaningchang.github.io/authors/marc-brysbaert/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring the relations between word frequency, language exposure, and bilingualism in a computational model of reading</title>
+      <link>https://yaningchang.github.io/publication/bilingualism/</link>
+      <pubDate>Mon, 03 Apr 2017 21:21:45 +0100</pubDate>
+      
+      <guid>https://yaningchang.github.io/publication/bilingualism/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
