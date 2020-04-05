@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven Furber on </title>
+    <link>https://yaningchang.github.io/authors/steven-furber/</link>
+    <description>Recent content in Steven Furber on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Oct 2012 21:43:15 +0100</lastBuildDate>
+    
+	<atom:link href="https://yaningchang.github.io/authors/steven-furber/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modelling normal and impaired letter recognition: Implications for understanding pure alexic reading</title>
+      <link>https://yaningchang.github.io/publication/letter_recognition/</link>
+      <pubDate>Fri, 05 Oct 2012 21:43:15 +0100</pubDate>
+      
+      <guid>https://yaningchang.github.io/publication/letter_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serial effects in parallel models of reading</title>
+      <link>https://yaningchang.github.io/publication/word_length_model/</link>
+      <pubDate>Thu, 05 Jan 2012 21:43:03 +0100</pubDate>
+      
+      <guid>https://yaningchang.github.io/publication/word_length_model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

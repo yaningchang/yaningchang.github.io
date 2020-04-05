@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei-Fan Chen on </title>
+    <link>https://yaningchang.github.io/authors/wei-fan-chen/</link>
+    <description>Recent content in Wei-Fan Chen on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jun 2016 21:04:04 +0100</lastBuildDate>
+    
+	<atom:link href="https://yaningchang.github.io/authors/wei-fan-chen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effects of orthographic consistency and homophone density on Chinese spoken word recognition</title>
+      <link>https://yaningchang.github.io/publication/feedback_consistency/</link>
+      <pubDate>Sun, 05 Jun 2016 21:04:04 +0100</pubDate>
+      
+      <guid>https://yaningchang.github.io/publication/feedback_consistency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The feedback consistency effect in Chinese character recognition: evidence from a psycholinguistic norm</title>
+      <link>https://yaningchang.github.io/publication/ld_feedback_consistency/</link>
+      <pubDate>Fri, 05 Jun 2015 21:32:17 +0100</pubDate>
+      
+      <guid>https://yaningchang.github.io/publication/ld_feedback_consistency/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
